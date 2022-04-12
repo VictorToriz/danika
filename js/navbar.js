@@ -1,24 +1,24 @@
 //Declara los elementos del navbar
 //logo
-const log = `../img/baner.png`
+const log = `danika/img/baner.png`
 //Enlaces
 const inc = `Inicio`;
-const inc1 = `/index.html`;
+const inc1 = `danika/index.html`;
 const nos = `Nosotros`;
-const nos1 = `/nosotros.html`;
+const nos1 = `danika/nosotros.html`;
 const ser = `Servicios`;
-const ser1 = `/servicios.html`;
+const ser1 = `danika/servicios.html`;
 const age = `Agendar cita`;
-const age1 = `/agendar.html`;
+const age1 = `danika/agendar.html`;
 const ayu = `Ayuda`;
-const ayu1 = `/ayuda.html`;
+const ayu1 = `danika/ayuda.html`;
 const chm = `Chmod 777`;
-const chm1 = `../page/chmod.html`;
+const chm1 = `danika/chmod.html`;
 const adm = `Administrador`;
-const adm1 = `/admin.html`;
+const adm1 = `danika/admin.html`;
 //Botones INGRESAR REGISTRO
 const ing = `Ingresar`;
-const reg1 = `/registrar.html`;
+const reg1 = `danika/registrar.html`;
 const reg = `Registrarse`;
 //Modal
 
