@@ -3,22 +3,22 @@
 const log = `../img/baner.png`
 //Enlaces
 const inc = `Inicio`;
-const inc1 = `../index.html`;
+const inc1 = `/index.html`;
 const nos = `Nosotros`;
-const nos1 = `../page/nosotros.html`;
+const nos1 = `/nosotros.html`;
 const ser = `Servicios`;
-const ser1 = `../page/servicios.html`;
+const ser1 = `/servicios.html`;
 const age = `Agendar cita`;
-const age1 = `../page/agendar.html`;
+const age1 = `/agendar.html`;
 const ayu = `Ayuda`;
-const ayu1 = `../page/ayuda.html`;
+const ayu1 = `/ayuda.html`;
 const chm = `Chmod 777`;
 const chm1 = `../page/chmod.html`;
 const adm = `Administrador`;
-const adm1 = `../page/admin.html`;
+const adm1 = `/admin.html`;
 //Botones INGRESAR REGISTRO
 const ing = `Ingresar`;
-const reg1 = `../page/registrar.html`;
+const reg1 = `/registrar.html`;
 const reg = `Registrarse`;
 //Modal
 
